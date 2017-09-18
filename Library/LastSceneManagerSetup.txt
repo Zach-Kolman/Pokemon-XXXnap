@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/DemoIsland.unity
+- path: Assets/The Facility.unity
   isLoaded: 1
   isActive: 1
