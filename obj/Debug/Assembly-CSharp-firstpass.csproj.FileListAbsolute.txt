@@ -30,3 +30,35 @@ C:\Users\zkolman\Documents\New Unity Project\Temp\bin\Debug\UnityEngine.HoloLens
 C:\Users\zkolman\Documents\New Unity Project\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
 C:\Users\zkolman\Documents\New Unity Project\obj\Debug\Assembly-CSharp-firstpass.dll
 C:\Users\zkolman\Documents\New Unity Project\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Zach\PokemonXXXnap\Pokemon-XXXnap\obj\Debug\Assembly-CSharp-firstpass.pdb
