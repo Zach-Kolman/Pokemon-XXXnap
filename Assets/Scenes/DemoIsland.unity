@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657844, g: 0.49641222, b: 0.57481694, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -402,7 +402,7 @@ BoxCollider:
   m_GameObject: {fileID: 475971723}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -472,6 +472,22 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 2fba46327d502d54ca64ad133954fe3a, type: 3}
   m_IsPrefabParent: 0
+--- !u!1 &621760872 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 100030, guid: 46232621a6f8ee64c9aa1b4c8ddcf9a2, type: 3}
+  m_PrefabInternal: {fileID: 175192224}
+--- !u!65 &621760876
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 621760872}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.28536195, y: 0.6993592, z: 0.5741919}
+  m_Center: {x: 0, y: 0.030421434, z: 0.28720015}
 --- !u!1 &696426986
 GameObject:
   m_ObjectHideFlags: 0
@@ -625,7 +641,7 @@ BoxCollider:
   m_GameObject: {fileID: 705034231}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -934,6 +950,11 @@ Prefab:
     - target: {fileID: 4773438510572364, guid: b22c0e04064fa9d4aab2205572a98467, type: 2}
       propertyPath: m_RootOrder
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 82612277910145776, guid: b22c0e04064fa9d4aab2205572a98467,
+        type: 2}
+      propertyPath: spreadCustomCurve.m_RotationOrder
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: b22c0e04064fa9d4aab2205572a98467, type: 2}
@@ -1255,7 +1276,7 @@ SphereCollider:
   m_GameObject: {fileID: 1663825482}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
   m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
@@ -1432,7 +1453,7 @@ SphereCollider:
   m_GameObject: {fileID: 1811892197}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
   m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
@@ -1456,6 +1477,24 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1932632488 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1662053010141482, guid: b22c0e04064fa9d4aab2205572a98467,
+    type: 2}
+  m_PrefabInternal: {fileID: 1085452542}
+--- !u!114 &1932632493
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1932632488}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8487488fb6baa294bbbbb14f8e371425, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  crosshair: {fileID: 1951430017}
+  newColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!1 &1951430015
 GameObject:
   m_ObjectHideFlags: 0
@@ -1466,6 +1505,7 @@ GameObject:
   - component: {fileID: 1951430016}
   - component: {fileID: 1951430018}
   - component: {fileID: 1951430017}
+  - component: {fileID: 1951430019}
   m_Layer: 5
   m_Name: cameraCrosshair
   m_TagString: Untagged
@@ -1523,6 +1563,18 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1951430015}
+--- !u!114 &1951430019
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1951430015}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc40fe6f972e43d46bc18e3a2a7421a9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  crosshair: {fileID: 0}
 --- !u!1001 &1962476983
 Prefab:
   m_ObjectHideFlags: 0

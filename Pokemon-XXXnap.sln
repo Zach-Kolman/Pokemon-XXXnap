@@ -1,11 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon-XXXnap", "Assembly-CSharp-firstpass.csproj", "{787B57D1-4136-FC4A-3BB3-3E99BD614CCC}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon-XXXnap", "Pokemon-XXXnap.csproj", "{13E94346-0287-10CC-AF2C-6C0083472D23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon-XXXnap", "Assembly-CSharp.csproj", "{F3C0987B-B88F-6035-BF84-D53C45BAF4B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon-XXXnap.Plugins", "Pokemon-XXXnap.Plugins.csproj", "{967ECADD-6674-FDFA-BEDA-529DC8D10343}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon-XXXnap", "Assembly-CSharp-Editor-firstpass.csproj", "{F19B9AAE-8CD4-5294-2A73-8BA39FF4C503}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon-XXXnap.Editor.Plugins", "Pokemon-XXXnap.Editor.Plugins.csproj", "{B48D0CC9-749B-BB76-D869-A386A2CF149B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,23 +13,20 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{787B57D1-4136-FC4A-3BB3-3E99BD614CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{787B57D1-4136-FC4A-3BB3-3E99BD614CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{787B57D1-4136-FC4A-3BB3-3E99BD614CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{787B57D1-4136-FC4A-3BB3-3E99BD614CCC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F3C0987B-B88F-6035-BF84-D53C45BAF4B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F3C0987B-B88F-6035-BF84-D53C45BAF4B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F3C0987B-B88F-6035-BF84-D53C45BAF4B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F3C0987B-B88F-6035-BF84-D53C45BAF4B2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F19B9AAE-8CD4-5294-2A73-8BA39FF4C503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F19B9AAE-8CD4-5294-2A73-8BA39FF4C503}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F19B9AAE-8CD4-5294-2A73-8BA39FF4C503}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F19B9AAE-8CD4-5294-2A73-8BA39FF4C503}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13E94346-0287-10CC-AF2C-6C0083472D23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E94346-0287-10CC-AF2C-6C0083472D23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E94346-0287-10CC-AF2C-6C0083472D23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E94346-0287-10CC-AF2C-6C0083472D23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{967ECADD-6674-FDFA-BEDA-529DC8D10343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{967ECADD-6674-FDFA-BEDA-529DC8D10343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{967ECADD-6674-FDFA-BEDA-529DC8D10343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{967ECADD-6674-FDFA-BEDA-529DC8D10343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B48D0CC9-749B-BB76-D869-A386A2CF149B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B48D0CC9-749B-BB76-D869-A386A2CF149B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B48D0CC9-749B-BB76-D869-A386A2CF149B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B48D0CC9-749B-BB76-D869-A386A2CF149B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
