@@ -118,6 +118,27 @@ ModelImporter:
     4300036: pSphere8
     4300038: pCylinder8
     4300040: pCylinder7
+    6400000: pCube1
+    6400002: pCylinder1
+    6400004: pCylinder2
+    6400006: pCylinder3
+    6400008: pCylinder4
+    6400010: pCylinder5
+    6400012: pCylinder6
+    6400014: pCylinder7
+    6400016: pCylinder7 1
+    6400018: pCylinder8
+    6400020: pCylinder8 1
+    6400022: polySurface1
+    6400024: pSphere1
+    6400026: pSphere2
+    6400028: pSphere3
+    6400030: pSphere4
+    6400032: pSphere5
+    6400034: pSphere6
+    6400036: pSphere7
+    6400038: pSphere8
+    6400040: pSphere8 1
     9500000: //RootNode
   materials:
     importMaterials: 1

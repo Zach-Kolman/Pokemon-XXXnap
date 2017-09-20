@@ -84,10 +84,12 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Camera_Zoom.cs" />
     <Compile Include="Assets\Scripts\CameraShutter.cs" />
     <Compile Include="Assets\Scripts\ConveyorScript.cs" />
     <Compile Include="Assets\Scripts\Crosshair.cs" />
     <Compile Include="Assets\Scripts\CrossHairColor.cs" />
+    <Compile Include="Assets\Scripts\ShootRocks.cs" />
     <Compile Include="Assets\Scripts\tentaRise.cs" />
   </ItemGroup>
   <ItemGroup>

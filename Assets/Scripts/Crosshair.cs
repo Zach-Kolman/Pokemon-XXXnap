@@ -32,11 +32,14 @@ public class Crosshair : MonoBehaviour {
         {
             if (hit.collider != null)
             {
-                hit.collider.enabled = false;
+               // hit.collider.enabled = false;
                 colorCross.ChangeColor();
                 isOnTarget = true;
                 Debug.Log("You are aiming at POKE");
-            } 
+            }  else
+            {
+                colorCross.ChangeWhite();
+            }
            
            
         }
